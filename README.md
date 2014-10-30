@@ -77,4 +77,4 @@ Transforms gender pronouns between male and female.
 ```
 
 Input: Does it belong to him?  
-Bot: No, it belongs to her.
+Output: No, it belongs to her.
