@@ -15,7 +15,7 @@ Performs normalization procedures on input strings ("pre-processing").
 </category>  
 ```
 
-Input: Say pandorabots.com
+Input: Say pandorabots.com  
 Output: pandorabots dot com
 
 
@@ -31,8 +31,8 @@ Reverses steps taken in normalization procedures.
 </category>  
 ```
 
-Input: Take me to pandorabots.com. 
-Template: Redirecting to pandorabots.com
+Input: Take me to pandorabots.com.  
+Output: Redirecting to pandorabots.com
 
 person.substitution
 -------------------
@@ -46,7 +46,7 @@ Transforms pronouns between first and second person.
 </category>  
 ```
 
-Input: You are waiting for me.
+Input: You are waiting for me.  
 Output: I am waiting for you.
 
 person2.substitution
@@ -61,7 +61,7 @@ Transforms pronouns between first and third person.
 </category>  
 ```
 
-Input: Give the password to me. 
+Input: Give the password to me.  
 Output: User has asked me to give the password to him or her.
 
 gender.substitution
@@ -76,5 +76,5 @@ Transforms gender pronouns between male and female.
 </category>  
 ```
 
-Input: Does it belong to him? 
+Input: Does it belong to him?  
 Bot: No, it belongs to her.
