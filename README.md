@@ -3,7 +3,7 @@ Substitutions
 
 Default substitution files for use on Pandorabots. Refer to the [blog post](http://blog.pandorabots.com/substitutions-and-sentence-splitting/) for a more detailed explanation of usage.
 
-normal.susbtitution
+normal.substitution
 -------------------
 
 Performs normalization procedures on input strings ("pre-processing").
