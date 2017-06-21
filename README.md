@@ -1,7 +1,7 @@
 Substitutions
 =============
 
-Default substitution files for use on Pandorabots. Refer to the [blog post](http://blog.pandorabots.com/substitutions-and-sentence-splitting/) for a more detailed explanation of usage.
+Default substitution files for use on Pandorabots. Refer to the [blog post](https://medium.com/pandorabots-blog/substitutions-and-sentence-splitting-fd7c32235213) for a more detailed explanation of usage.
 
 normal.substitution
 -------------------
